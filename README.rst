@@ -7,6 +7,7 @@ Mobile Network Homework 2
 - Also compatible with 4.1. But I didn't test other versions.
 
 .. image:: screenshot.png
+    :scale: 30%
 
 Requirements
 ------------
